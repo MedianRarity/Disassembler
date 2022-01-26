@@ -1,8 +1,4 @@
 /*
-*  Names: Norman Chau (818115643), Rahul Shivade (822701861), Karla Barrios (823557131), Jose Moran (822973262)
-*  CS530 MW
-*  Programming Assignment 1
-*  Started on 10/17/20
 *  Program takes two inputs, .obj file and .sym file (IN THAT ORDER),
 *  and converts it into one output, an .lis file.
 *  All input/output files are in .txt format for convenience.
